@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Projects\ShuffleStrings\bin\Debug\ShuffleStrings.exe.config
+C:\Users\User\Documents\Projects\ShuffleStrings\bin\Debug\ShuffleStrings.exe
+C:\Users\User\Documents\Projects\ShuffleStrings\bin\Debug\ShuffleStrings.pdb
+C:\Users\User\Documents\Projects\ShuffleStrings\obj\Debug\ShuffleStrings.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projects\ShuffleStrings\obj\Debug\ShuffleStrings.Form1.resources
+C:\Users\User\Documents\Projects\ShuffleStrings\obj\Debug\ShuffleStrings.Properties.Resources.resources
+C:\Users\User\Documents\Projects\ShuffleStrings\obj\Debug\ShuffleStrings.csproj.GenerateResource.cache
+C:\Users\User\Documents\Projects\ShuffleStrings\obj\Debug\ShuffleStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\ShuffleStrings\obj\Debug\ShuffleStrings.exe
+C:\Users\User\Documents\Projects\ShuffleStrings\obj\Debug\ShuffleStrings.pdb
